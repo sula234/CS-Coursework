@@ -1,0 +1,3 @@
+shashlyk: 3000
+ramen: 2300
+pizza: 2000
